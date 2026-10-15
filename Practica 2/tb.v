@@ -42,7 +42,7 @@ module tb_top_alu_de10lite;
         sel = 2'b10; A = 5'd3; B = 5'd5;
         #20;
 
-        $display("Simulación de overflow terminada.");
+        $display("SimulaciÃ³n de overflow terminada.");
         $finish;
     end
 
