@@ -1,4 +1,4 @@
-// Sumador de 16 bits usando 4 módulos de 4 bits
+// Sumador de 16 bits usando 4 mÃ³dulos de 4 bits
 module sum_16bits (
     input wire [15:0] A,
     input wire [15:0] B,
