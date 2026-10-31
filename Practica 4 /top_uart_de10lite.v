@@ -14,7 +14,7 @@ reg  [7:0] tx_data;
 reg        tx_start;
 wire       tx_busy;
 
-// Registro temporal para no perder el dato si el TX est· ocupado
+// Registro temporal para no perder el dato si el TX est√° ocupado
 reg [7:0] holding_register;
 reg       data_ready;
 
